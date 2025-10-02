@@ -37,6 +37,30 @@ body {
     padding: 1.5rem;
     font-size: 0.9rem;
   }
-  
 
+  footer p {
+    color:white;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 90%;
+    margin: 20px auto;
+    padding: 200px;
+  }
+  th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: center;
+    color: white;
+  }
+  th {
+    background-color: #1DB954;
+    color: white;
+  }
+ a {
+  text-decoration: none;
+  color: #1DB954;
+  font-weight: bold;
+ }
   
